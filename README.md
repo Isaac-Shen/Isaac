@@ -1,2 +1,2 @@
-# Quantilize
-This is a project that quantilize the chinese financial trade market, including Shanghai Exchange, Shenzhen Exchange and China inter-bank market
+# Isaac's Code-pool
+Hello guys! My name is Isaac. Welcome to my code-pool!
